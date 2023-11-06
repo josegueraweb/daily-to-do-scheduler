@@ -1,4 +1,4 @@
-# **Day-Scheduler**
+# **Work Day Scheduler**
  
 ## **Project Description**
 
